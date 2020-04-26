@@ -1,4 +1,4 @@
-package com.softhinkers.factory_method_pattern.creational_design_pattern;
+package com.softhinkers.creational_design.factory_method_pattern;
 
 public class InstitutionalPlan extends Plan {
     void getRate() {
